@@ -1,3 +1,7 @@
-.div {
-    color: blue;
+div {
+    font-size: 32px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
 }
